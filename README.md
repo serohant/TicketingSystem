@@ -19,11 +19,10 @@ A simple PHP-based ticket management class to handle support tickets efficiently
 1. Clone the repository:
    ```bash
    git clone https://github.com/serohant/TicketingSystem.git
-   cd user-authentication-system
    ```
 2. Navigate to the project directory:
    ```bash
-   cd user-authentication-system
+   cd TicketingSystem
    ```
 3. Configure your database connection in the Ticket class constructor.
    
